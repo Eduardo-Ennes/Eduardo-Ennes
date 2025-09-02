@@ -2,11 +2,11 @@
 ### Estudando e me qualificando para me tornar um desenvolvedor full-stack. Atualmente curso Análise e Desenvolvimento de Sistemas, com o objetivo de futuramente ingressar em Ciência da Computação, ampliando minha base técnica e me preparando para alcançar objetivos maiores na área de tecnologia.
 
 ## 🔧 Tecnologias & Ferramentas
-Linguagens: Python, JavaScript e TypeScript
-Back-end: Django e Node.js
-Front-end: Html e Css e React
-Banco de dados: MySql e Postgres
-DevOps(me aprofundando): Docker e Nginx 
+- Linguagens: Python, JavaScript e TypeScript
+- Back-end: Django e Node.js
+- Front-end: Html e Css e React
+- Banco de dados: MySql e Postgres
+- DevOps(me aprofundando): Docker e Nginx 
 
 ## 📂 Projetos 
 - [**Crud-Django**](https://github.com/Eduardo-Ennes/Crud-Django) → Projeto desenvolvido com Django, Python, React e MySql para praticar todas as operações CRUD, implementação de API e ganhar experiência com o framework.
