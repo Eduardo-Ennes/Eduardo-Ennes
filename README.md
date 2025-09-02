@@ -16,6 +16,6 @@
 - [**My-second-ecommerce**](#) → Projeto em desenvolvimento com o objetivo de construir um e-commerce completo, incluindo funcionalidades avançadas como chat em tempo real com Socket.io, API de pagamentos, envio de e-mails e simulação de atendimento ao cliente. Também traz melhorias na organização e arquitetura de pastas e códigos, aproximando-se de um projeto profissional.  
 
  ## 📫 Contato
-- 💼 [LinkedIn](linkedin.com/in/eduardo-ennes-537070186)  
+- 💼 [LinkedIn](https://linkedin.com/in/eduardo-ennes-537070186)  
 - ✉️ eduardosimoes9899@gmail.com  
  
